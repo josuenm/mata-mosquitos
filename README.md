@@ -2,7 +2,7 @@
 
 O jogo foi desenvolvido apenas com HTML, CSS e JS puro! Sem nenhuma biblioteca ou framework por trás!
 
-SIET: https://josuenm.github.io/mata-mosquitos
+SITE: https://josuenm.github.io/mata-mosquitos
 
 ![image](https://user-images.githubusercontent.com/83486074/132559727-334891fb-b01e-4d04-8d8d-1d29abf643de.png)
 
